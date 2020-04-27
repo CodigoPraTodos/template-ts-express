@@ -1,4 +1,4 @@
-# Template CodigoPraTodos para NodeJS com Typescript Backend
+# Template NodeJS com Express e Typescript
 
 ## Como rodar o projeto
 
